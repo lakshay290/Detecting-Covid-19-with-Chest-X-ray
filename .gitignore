@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+COVID-19_Radiography_Dataset/
+COVID-19_Test_Data/
